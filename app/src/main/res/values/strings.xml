@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AMS_SMS</string>
+    <string name="practice">Practice SMS</string>
+    <string name="send">Send SMS</string>
+    <string name="about">About</string>
+    <string name="check_status">Check Status</string>
+</resources>

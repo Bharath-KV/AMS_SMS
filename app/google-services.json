@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "515653309149",
+    "firebase_url": "https://ams-sms.firebaseio.com",
+    "project_id": "ams-sms",
+    "storage_bucket": "ams-sms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515653309149:android:f355ba5d4feded5e",
+        "android_client_info": {
+          "package_name": "com.example.svbk0.ams_sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515653309149-f49toopud89ifkh34a069elmfipin3qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKvVBfBx_uRXg-vJ9EAl3DId68eWknajE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
