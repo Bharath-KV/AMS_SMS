@@ -234,6 +234,7 @@ public class SendSMS extends AppCompatActivity {
                             return;
                         }
                         sendSMS.setClickable(false);
+                        isEmpty = true;
                         sendMySMS();
                     }
 

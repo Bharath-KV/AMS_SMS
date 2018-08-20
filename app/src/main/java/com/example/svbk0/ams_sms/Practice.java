@@ -202,6 +202,7 @@ public class Practice extends AppCompatActivity {
                     builder.setMessage("SMS sent successfully!!")
                             .setPositiveButton("OK", new DialogInterface.OnClickListener() {
                                 public void onClick(DialogInterface dialog, int id) {
+                                    isEmpty = true;
                                     finish();
                                 }
                             }).create();
